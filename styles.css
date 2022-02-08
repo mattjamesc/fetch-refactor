@@ -1,0 +1,11 @@
+div > ul > li a:hover {
+    color: indigo;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    font-family: monospace;
+}
